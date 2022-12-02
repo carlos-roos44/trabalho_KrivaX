@@ -37,3 +37,43 @@ const dandoLike8 = document.querySelector('.curtir8');
 dandoLike8.addEventListener('click', function() {
   dandoLike8.classList.toggle('curtido8');
 });
+
+const dandoLike9 = document.querySelector('.curtir9');
+dandoLike9.addEventListener('click', function() {
+  dandoLike9.classList.toggle('curtido9');
+});
+
+const dandoLike10 = document.querySelector('.curtir10');
+dandoLike10.addEventListener('click', function() {
+  dandoLike10.classList.toggle('curtido10');
+});
+
+const dandoLike11 = document.querySelector('.curtir11');
+dandoLike11.addEventListener('click', function() {
+  dandoLike11.classList.toggle('curtido11');
+});
+
+const dandoLike12 = document.querySelector('.curtir12');
+dandoLike12.addEventListener('click', function() {
+  dandoLike12.classList.toggle('curtido12');
+});
+
+const dandoLike13 = document.querySelector('.curtir13');
+dandoLike13.addEventListener('click', function() {
+  dandoLike13.classList.toggle('curtido13');
+});
+
+const dandoLike14 = document.querySelector('.curtir14');
+dandoLike14.addEventListener('click', function() {
+  dandoLike14.classList.toggle('curtido14');
+});
+
+const dandoLike15 = document.querySelector('.curtir15');
+dandoLike15.addEventListener('click', function() {
+  dandoLike15.classList.toggle('curtido15');
+});
+
+const dandoLike16 = document.querySelector('.curtir16');
+dandoLike16.addEventListener('click', function() {
+  dandoLike16.classList.toggle('curtido16');
+});
